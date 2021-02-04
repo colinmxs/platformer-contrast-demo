@@ -1,0 +1,614 @@
+fileFormatVersion: 2
+guid: dd75692bde93c9b469f431baa0964222
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -4137726610833309674
+    second: concept-art-Sheet_0
+  - first:
+      213: 5595336324212955282
+    second: concept-art-Sheet_1
+  - first:
+      213: -7095880443430382106
+    second: concept-art-Sheet_2
+  - first:
+      213: 3748158194536757305
+    second: concept-art-Sheet_3
+  - first:
+      213: 369235159130452033
+    second: concept-art-Sheet_4
+  - first:
+      213: -3658147885638520537
+    second: concept-art-Sheet_0
+  - first:
+      213: -8406828296334696176
+    second: concept-art-Sheet_1
+  - first:
+      213: 5137918658334187323
+    second: concept-art-Sheet_2
+  - first:
+      213: -4660836555950042420
+    second: concept-art-Sheet_3
+  - first:
+      213: 7573827135384171055
+    second: concept-art-Sheet_4
+  - first:
+      213: -1114220804498798530
+    second: concept-art-Sheet_5
+  - first:
+      213: 5490224215420070804
+    second: concept-art-Sheet_6
+  - first:
+      213: -6985438511472132053
+    second: concept-art-Sheet_7
+  - first:
+      213: -3926820312671337456
+    second: concept-art-Sheet_8
+  - first:
+      213: -6796660088862250697
+    second: concept-art-Sheet_9
+  - first:
+      213: 7320640244065142526
+    second: concept-art-Sheet_10
+  - first:
+      213: 6613968316631729326
+    second: concept-art-Sheet_11
+  - first:
+      213: 6240601625902533455
+    second: concept-art-Sheet_12
+  - first:
+      213: 371808399549124251
+    second: concept-art-Sheet_13
+  - first:
+      213: 338343068666465896
+    second: concept-art-Sheet_14
+  - first:
+      213: 4883856450895469519
+    second: concept-art-Sheet_15
+  - first:
+      213: -6761688812389607093
+    second: concept-art-Sheet_16
+  - first:
+      213: 5624407003926528847
+    second: concept-art-Sheet_17
+  - first:
+      213: -5602216116486137227
+    second: concept-art-Sheet_18
+  - first:
+      213: -7180058639466127360
+    second: concept-art-Sheet_19
+  - first:
+      213: 4876357927475626525
+    second: concept-art-Sheet_20
+  - first:
+      213: -1476252930823377901
+    second: concept-art-Sheet_21
+  - first:
+      213: 1342028425006647050
+    second: concept-art-Sheet_22
+  - first:
+      213: 5690070188851147165
+    second: concept-art-Sheet_23
+  - first:
+      213: -5612559042676300373
+    second: concept-art-Sheet_24
+  - first:
+      213: 4303534064675047439
+    second: concept-art-Sheet_25
+  - first:
+      213: -5463678345867506039
+    second: concept-art-Sheet_26
+  - first:
+      213: -6070185217699361335
+    second: concept-art-Sheet_27
+  - first:
+      213: -3650408066872304697
+    second: concept-art-Sheet_28
+  - first:
+      213: -6156911283772076028
+    second: concept-art-Sheet_29
+  - first:
+      213: 5336013694955089298
+    second: concept-art-Sheet_30
+  - first:
+      213: 3809639147325478814
+    second: concept-art-Sheet_31
+  - first:
+      213: 507007966440640832
+    second: concept-art-Sheet_32
+  - first:
+      213: 7010904061997100805
+    second: concept-art-Sheet_33
+  - first:
+      213: 3000741419826218649
+    second: concept-art-Sheet_34
+  - first:
+      213: -3986341906023211129
+    second: concept-art-Sheet_35
+  - first:
+      213: -1756213848370556077
+    second: concept-art-Sheet_36
+  - first:
+      213: -2303308505713825321
+    second: concept-art-Sheet_37
+  - first:
+      213: -2186270563407014193
+    second: concept-art-Sheet_38
+  - first:
+      213: 3554007197841265092
+    second: concept-art-Sheet_39
+  - first:
+      213: 911971620696301404
+    second: concept-art-Sheet_40
+  - first:
+      213: -707959137897915967
+    second: concept-art-Sheet_41
+  - first:
+      213: 7284940137297825275
+    second: concept-art-Sheet_42
+  - first:
+      213: -4900425183942589294
+    second: concept-art-Sheet_43
+  - first:
+      213: 5150349492294807169
+    second: concept-art-Sheet_44
+  - first:
+      213: 7086087047918959547
+    second: concept-art-Sheet_45
+  - first:
+      213: -1713387262925461475
+    second: concept-art-Sheet_46
+  - first:
+      213: 1795248672444602716
+    second: concept-art-Sheet_47
+  - first:
+      213: 3706299874263909262
+    second: concept-art-Sheet_48
+  - first:
+      213: 6645193403753279404
+    second: concept-art-Sheet_49
+  - first:
+      213: 4012786884358422536
+    second: concept-art-Sheet_50
+  - first:
+      213: -7393241948972678571
+    second: concept-art-Sheet_51
+  - first:
+      213: -9080848650681673528
+    second: concept-art-Sheet_52
+  - first:
+      213: 602184502180333369
+    second: concept-art-Sheet_53
+  - first:
+      213: -3689840006886621030
+    second: concept-art-Sheet_54
+  - first:
+      213: -1185093540552929785
+    second: concept-art-Sheet_55
+  - first:
+      213: 492506494775459202
+    second: concept-art-Sheet_56
+  - first:
+      213: -2873210387134161332
+    second: concept-art-Sheet_57
+  - first:
+      213: 767898331549502617
+    second: concept-art-Sheet_58
+  - first:
+      213: -6459245510962460372
+    second: concept-art-Sheet_59
+  - first:
+      213: -6950573366538167657
+    second: concept-art-Sheet_60
+  - first:
+      213: -6380010107820721188
+    second: concept-art-Sheet_61
+  - first:
+      213: -6733382099667010288
+    second: concept-art-Sheet_62
+  - first:
+      213: -6161836144195659387
+    second: concept-art-Sheet_63
+  - first:
+      213: 6001507576901062226
+    second: concept-art-Sheet_64
+  - first:
+      213: 7216284660270590338
+    second: concept-art-Sheet_65
+  - first:
+      213: 5737565615351900638
+    second: concept-art-Sheet_66
+  - first:
+      213: -8142087283671695416
+    second: concept-art-Sheet_67
+  - first:
+      213: 4611114406473284486
+    second: concept-art-Sheet_68
+  - first:
+      213: 3191069839955120331
+    second: concept-art-Sheet_69
+  - first:
+      213: 6544022034329368059
+    second: concept-art-Sheet_70
+  - first:
+      213: -122929870487889033
+    second: concept-art-Sheet_71
+  - first:
+      213: 1281948277851049020
+    second: concept-art-Sheet_72
+  - first:
+      213: 8562462365073088830
+    second: concept-art-Sheet_73
+  - first:
+      213: -8110932288676805102
+    second: concept-art-Sheet_74
+  - first:
+      213: 8205760596151111023
+    second: concept-art-Sheet_75
+  - first:
+      213: 8853754253423942628
+    second: concept-art-Sheet_76
+  - first:
+      213: -6759804063560337635
+    second: concept-art-Sheet_77
+  - first:
+      213: -1367515079862188199
+    second: concept-art-Sheet_78
+  - first:
+      213: -3847235157093501655
+    second: concept-art-Sheet_79
+  - first:
+      213: 5841010321630907017
+    second: concept-art-Sheet_80
+  - first:
+      213: 279074504625919868
+    second: concept-art-Sheet_81
+  - first:
+      213: 3578613686799798850
+    second: concept-art-Sheet_82
+  - first:
+      213: 4782543220598720904
+    second: concept-art-Sheet_83
+  - first:
+      213: 2495738118845203783
+    second: concept-art-Sheet_84
+  - first:
+      213: 5171196559810961760
+    second: concept-art-Sheet_85
+  - first:
+      213: 6598097333340890734
+    second: concept-art-Sheet_86
+  - first:
+      213: -4064785306865774194
+    second: concept-art-Sheet_87
+  - first:
+      213: 1705801888511205457
+    second: concept-art-Sheet_88
+  - first:
+      213: -1249933129099058116
+    second: concept-art-Sheet_89
+  - first:
+      213: -6288504451478061288
+    second: concept-art-Sheet_90
+  - first:
+      213: -7028531999785810353
+    second: concept-art-Sheet_91
+  - first:
+      213: 8411646629538087135
+    second: concept-art-Sheet_92
+  - first:
+      213: 6398844871142578325
+    second: concept-art-Sheet_93
+  - first:
+      213: 5641153090036021269
+    second: concept-art-Sheet_94
+  - first:
+      213: 6010222922496025985
+    second: concept-art-Sheet_95
+  - first:
+      213: -3980553691287657488
+    second: concept-art-Sheet_96
+  - first:
+      213: 441587841212200739
+    second: concept-art-Sheet_97
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: -1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 16
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: concept-art-Sheet_12
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 256
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f4b45a85d121b9650800000000000000
+      internalID: 6240601625902533455
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: concept-art-Sheet_16
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 128
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b49d8cf99d7a922a0800000000000000
+      internalID: -6761688812389607093
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: concept-art-Sheet_17
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 128
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f438245ee58ed0e40800000000000000
+      internalID: 5624407003926528847
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: concept-art-Sheet_18
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 128
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 57a10e5bf1ee042b0800000000000000
+      internalID: -5602216116486137227
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: concept-art-Sheet_19
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 128
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 000a52085be4b5c90800000000000000
+      internalID: -7180058639466127360
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: concept-art-Sheet_20
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 112
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d1248d0f2bd4ca340800000000000000
+      internalID: 4876357927475626525
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: concept-art-Sheet_21
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 112
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 31ca4abe7cb438be0800000000000000
+      internalID: -1476252930823377901
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: concept-art-Sheet_22
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 112
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a078ffefdb7df9210800000000000000
+      internalID: 1342028425006647050
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: concept-art-Sheet_28
+      rect:
+        serializedVersion: 2
+        x: 36
+        y: 16
+        width: 16
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7cb1bd03435275dc0800000000000000
+      internalID: -3650408066872304697
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
